@@ -1,0 +1,14 @@
+{
+  "Esri": [
+    {
+      "title": "NatGeoWorldMap",
+      "id": "esri-natgeoworldmap",
+      "type": "XYZ",
+      "properties": {
+        "urls": [
+          "https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/${z}/${y}/${x}"
+        ]
+      }
+    }
+  ]
+}

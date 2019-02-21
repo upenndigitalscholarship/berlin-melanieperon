@@ -1,0 +1,14 @@
+{
+  "Thunderforest": [
+    {
+      "title": "Pioneer",
+      "id": "thunderforest-pioneer",
+      "type": "XYZ",
+      "properties": {
+        "urls": [
+          "https://tile.thunderforest.com/pioneer/${z}/${x}/${y}.png?apikey=2ce73cf11f814fbaa107dfa516899ca2"
+        ]
+      }
+    }
+  ]
+}
